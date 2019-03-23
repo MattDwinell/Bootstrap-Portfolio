@@ -1,0 +1,47 @@
+footer{
+    max-width: 90%;
+    text-align:center;
+
+}
+nav{
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+body, html {
+    width:90%;
+  height: 100%;
+  margin-left:auto;
+  margin-right:auto;
+  background-image: url(pipes.png)
+}
+/* .bg { */
+  /* The image used */
+  /* background-image: url(pipes.png); */
+
+  /* Full height */
+  /* height: 100%; */
+
+  /* Center and scale the image nicely */
+  /* background-position: center; */
+  /* background-repeat: repeat; */
+  /* background-size: auto; */
+  /* z-index: -5; */
+/* } */
+.profile{
+    display:grid;
+   
+}
+#messagebox{
+    height:40vh;
+}
+.col-md-5{
+   margin-top:4%;
+   margin-bottom:4%;
+   padding-top:55px;
+  padding-left:5x;
+    text-align:center;
+    width:200px;
+    height:200px;
+    background-image:url("placeholder.jpg")
+}
